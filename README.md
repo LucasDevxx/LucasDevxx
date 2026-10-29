@@ -1,136 +1,144 @@
- <div align="center">
+<!-- PHANTOM PURPLE // PROFILE README -->
 
-<img src="./phantom-purple.png" alt="LucasDevxx — Phantom Purple" width="100%" />
+<p align="center">
+  <img src="./phantom-purple.png" width="100%" alt="LucasDevxx — Phantom Purple" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHANTOM-PURPLE-8B5CF6?style=for-the-badge&labelColor=0D0B14" alt="Phantom Purple" />
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-BC8CFF?style=for-the-badge&labelColor=0D0B14" alt="Always Learning" />
+</p>
 
-<img src="https://img.shields.io/badge/PHANTOM_PURPLE-7C3AED?style=for-the-badge&labelColor=0D0B14" alt="Phantom Purple" />
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-A855F7?style=for-the-badge&labelColor=0D0B14" alt="Always Learning" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=BC8CFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Learning+Linux+%26+Networking;Exploring+Cybersecurity;Build.+Learn.+Evolve." alt="Animated introduction" />
+</p>
 
-# LucasDevxx
-
-**Software Engineering Student · Aspiring Developer · Cybersecurity Learner**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=Learning+Linux+%26+Computer+Networks;Studying+Social+Engineering;Exploring+Penetration+Testing;Learning+Ethical+Hacking;Learn.+Build.+Evolve." alt="Typing animation" />
-
-<br/>
-
-<a href="https://github.com/LucasDevxx">
-<img src="https://img.shields.io/badge/GITHUB-LucasDevxx-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=171321" alt="GitHub profile" />
-</a>
-
-</div>
+<p align="center">
+  <strong>Software Engineering Student · Aspiring Developer · Cybersecurity Learner</strong>
+</p>
 
 ---
 
 ### `01 / WHOAMI`
 
 ```text
-┌──(lucas㉿github)-[~]
+┌──(lucas㉿phantom)-[~]
 └─$ whoami
 
-Software Engineering Student
-Learning & Building
-Cybersecurity Learner
-Linux & Networking Explorer
+LucasDevxx
+
+└─$ cat mission.txt
+
+Learn how systems work.
+Build useful software.
+Understand networks and security.
+Keep learning. Keep evolving.
 ```
 
-I'm a **Software Engineering student** interested in how software, operating systems, networks, and human behavior interact.
+I'm a Software Engineering student interested in software development, operating systems, computer networks, and cybersecurity.
 
-I enjoy learning programming, exploring Linux environments, building practical projects, and understanding how security vulnerabilities affect digital systems.
+I use this profile to document my learning journey, explore technologies, and improve my technical skills step by step.
 
-I'm developing my skills through hands-on practice, personal projects, and continuous learning.
+### `02 / SYSTEM STATUS`
 
-### `02 / TECHNOLOGIES & TOOLS`
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=flat-square&labelColor=0D0B14" alt="System online" />
+  <img src="https://img.shields.io/badge/MODE-LEARNING-BC8CFF?style=flat-square&labelColor=0D0B14" alt="Learning mode" />
+  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-BC8CFF?style=flat-square&labelColor=0D0B14" alt="Linux environment" />
+  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-BC8CFF?style=flat-square&labelColor=0D0B14" alt="Cybersecurity focus" />
+</p>
 
-<div align="center">
+```text
+[ SYSTEM REPORT ]
 
-<img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white&labelColor=171321" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-A855F7?style=for-the-badge&logo=javascript&logoColor=white&labelColor=171321" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=171321" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-6D28D9?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=171321" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-C084FC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=171321" alt="Tailwind CSS" />
+Identity       : LucasDevxx
+Current mode   : Learning & Building
+Primary focus  : Software Engineering
+Environment    : Linux / Fedora / Kali Linux
+Code & scripts : Python
+Web stack      : TypeScript / Next.js
+Interests      : Networking / Cybersecurity
 
-<br/>
+[ END OF REPORT ]
+```
 
-<img src="https://img.shields.io/badge/Linux-7C3AED?style=for-the-badge&logo=linux&logoColor=white&labelColor=171321" alt="Linux" />
-<img src="https://img.shields.io/badge/Fedora-A855F7?style=for-the-badge&logo=fedora&logoColor=white&labelColor=171321" alt="Fedora" />
-<img src="https://img.shields.io/badge/Kali_Linux-8B5CF6?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=171321" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white&labelColor=171321" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=171321" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=white&labelColor=171321" alt="Docker" />
+### `03 / TECH ARSENAL`
 
-</div>
+**01 — CODE**
 
-*Technologies and tools I'm learning, exploring, or using in personal projects.*
+<p>
+  <img src="https://img.shields.io/badge/Python-BC8CFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0B14" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-BC8CFF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D0B14" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-BC8CFF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0B14" alt="TypeScript" />
+</p>
 
-### `03 / CYBERSECURITY INTERESTS`
+**02 — WEB DEVELOPMENT**
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Next.js-BC8CFF?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D0B14" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-BC8CFF?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D0B14" alt="Tailwind CSS" />
+</p>
 
-<img src="https://img.shields.io/badge/SOCIAL_ENGINEERING-7C3AED?style=for-the-badge&labelColor=171321" alt="Social Engineering" />
-<img src="https://img.shields.io/badge/PENETRATION_TESTING-A855F7?style=for-the-badge&labelColor=171321" alt="Penetration Testing" />
-<img src="https://img.shields.io/badge/ETHICAL_HACKING-8B5CF6?style=for-the-badge&labelColor=171321" alt="Ethical Hacking" />
-<img src="https://img.shields.io/badge/NETWORK_SECURITY-C084FC?style=for-the-badge&labelColor=171321" alt="Network Security" />
+**03 — SYSTEMS & TOOLS**
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Linux-BC8CFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D0B14" alt="Linux" />
+  <img src="https://img.shields.io/badge/Fedora-BC8CFF?style=for-the-badge&logo=fedora&logoColor=white&labelColor=0D0B14" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Kali_Linux-BC8CFF?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D0B14" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Git-BC8CFF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0B14" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-BC8CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B14" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-BC8CFF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0B14" alt="Docker" />
+</p>
 
-- **Social Engineering** — studying human behavior, psychological manipulation, and how attackers exploit trust.
-- **Penetration Testing** — learning authorized security testing methods to identify vulnerabilities and understand how systems can be protected.
-- **Ethical Hacking** — exploring offensive security concepts in controlled labs and authorized environments.
-- **Phishing Awareness** — learning to recognize fraudulent messages, suspicious links, and credential theft techniques.
-- **Linux & Kali Linux** — exploring command-line tools, operating systems, and security-focused environments.
-- **Network Security** — learning about network protocols, infrastructure, common weaknesses, and defensive measures.
-- **Defensive Cybersecurity** — exploring threat detection, risk reduction, and security best practices.
-- **Python & Automation** — practicing scripts to automate tasks and strengthen programming skills.
+<sub>Tools and technologies I'm learning, exploring, or using in personal projects.</sub>
 
-<sub>My goal is to understand how attacks work, improve my security knowledge, and contribute to safer systems. Security testing should always be authorized and conducted ethically.</sub>
+### `04 / MISSION LOG`
 
-### `04 / CURRENT FOCUS`
+```text
+[ ACTIVE MISSIONS ]
 
-<div align="center">
+01  PYTHON             -> Strengthen programming fundamentals
+02  LINUX              -> Explore systems and administration
+03  NETWORKING         -> Understand protocols and infrastructure
+04  WEB DEVELOPMENT    -> Practice TypeScript and Next.js
+05  CYBERSECURITY      -> Learn security fundamentals
+06  AUTOMATION         -> Build useful scripts and tools
 
-<img src="https://img.shields.io/badge/01-PYTHON-7C3AED?style=flat-square&labelColor=171321" alt="Python" />
-<img src="https://img.shields.io/badge/02-LINUX-8B5CF6?style=flat-square&labelColor=171321" alt="Linux" />
-<img src="https://img.shields.io/badge/03-NETWORKING-A855F7?style=flat-square&labelColor=171321" alt="Networking" />
-<img src="https://img.shields.io/badge/04-PENTESTING-C084FC?style=flat-square&labelColor=171321" alt="Penetration Testing" />
-<img src="https://img.shields.io/badge/05-SOCIAL_ENGINEERING-9333EA?style=flat-square&labelColor=171321" alt="Social Engineering" />
+[ PROGRESS: CONTINUOUS ]
+```
 
-</div>
+Current learning priorities:
 
-- Strengthening my Python programming and automation skills.
+- Improving Python and automation skills.
 - Practicing web development with TypeScript and Next.js.
-- Expanding my knowledge of Linux and computer networks.
-- Learning penetration testing methodologies and security tools.
-- Studying social engineering and phishing prevention.
-- Building personal projects and documenting my learning journey.
+- Learning Linux and computer networking.
+- Studying penetration testing in authorized environments.
+- Understanding social engineering and phishing prevention.
+- Documenting progress through practical exercises.
 
 ### `05 / GITHUB ANALYTICS`
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=LucasDevxx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC8CFF&icon_color=BC8CFF&text_color=E6EDF3" height="165" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC8CFF&text_color=E6EDF3&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=LucasDevxx&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B14&title_color=BC8CFF&icon_color=BC8CFF&text_color=E6EDF3" height="165" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&theme=radical&hide_border=true&bg_color=0D0B14&title_color=BC8CFF&text_color=E6EDF3&langs_count=6" height="165" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucasDevxx&theme=radical&hide_border=true&background=0D1117&ring=BC8CFF&fire=BC8CFF&currStreakLabel=BC8CFF" width="80%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=LucasDevxx&theme=radical&hide_border=true&background=0D0B14&ring=BC8CFF&fire=BC8CFF&currStreakLabel=BC8CFF" width="80%" alt="GitHub contribution streak" />
+</p>
+
+<sub>Statistics are provided by external services and may be cached or temporarily unavailable.</sub>
+
+### `06 / END OF TRANSMISSION`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHANTOM_PURPLE-BUILD_%E2%80%A2_LEARN_%E2%80%A2_EVOLVE-8B5CF6?style=for-the-badge&labelColor=0D0B14" alt="Build Learn Evolve" />
 </p>
 
 <p align="center">
-  <sub>BUILD · LEARN · EVOLVE</sub>
+  <i>Understand the system. Build with purpose.</i>
 </p>
----
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILD_LEARN_EVOLVE-7C3AED?style=for-the-badge&labelColor=171321" alt="Build Learn Evolve" />
-
-<br/><br/>
-
-<sub>Curiosity is the beginning. Consistency is the advantage.</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171321,40:6D28D9,75:A855F7,100:171321&height=120&section=footer" width="100%" alt="Purple cyberpunk footer" />
-
-</div>
+<p align="center">
+  <sub>LucasDevxx // PHANTOM PURPLE // ALWAYS LEARNING</sub>
+</p>
