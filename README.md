@@ -36,10 +36,10 @@
 ## Desenvolvimento Web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Next.js e Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Next.js" />
 </p>
 
-HTML • CSS • JavaScript • TypeScript • Next.js • Tailwind CSS
+HTML • CSS • JavaScript • TypeScript • Next.js 
 
 ## Programação
 
