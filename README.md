@@ -35,27 +35,33 @@
 
 ## Desenvolvimento Web
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript e Next.js" />
 </p>
 
-HTML • CSS • JavaScript • TypeScript • Next.js
+<p align="center">
+  HTML • CSS • JavaScript • TypeScript • Next.js
+</p>
 
 ## Programação
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python e Java" />
 </p>
 
-Python • Java
+<p align="center">
+  Python • Java
+</p>
 
 ## Sistemas e ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker&theme=dark" alt="Linux, Git, GitHub e Docker" />
 </p>
 
-Linux • Git • GitHub • Docker
+<p align="center">
+  Linux • Git • GitHub • Docker
+</p>
 
 ---
 
@@ -69,57 +75,22 @@ Linux • Git • GitHub • Docker
 
 ---
 
-## Estatísticas do GitHub
+## Atividade no GitHub
 
-<!-- ESTATISTICAS GERAIS -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LucasDevxx&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB"
-    width="49%"
-    alt="Estatísticas do GitHub"
-  />
-</p>
-
-<!-- LINGUAGENS MAIS UTILIZADAS -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasDevxx&theme=github_dark"
-    width="49%"
-    alt="Linguagens mais utilizadas nos repositórios"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasDevxx&theme=github_dark"
-    width="49%"
-    alt="Linguagens mais utilizadas nos commits"
-  />
-</p>
-
-<!-- SEQUENCIA DE CONTRIBUICOES -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=LucasDevxx&hide_border=true&background=0D0D12&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
-    width="70%"
-    alt="Sequência de contribuições"
-  />
+  <img src="https://streak-stats.demolab.com?user=LucasDevxx&theme=transparent&hide_border=true&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ---
 
 <!-- ENCERRAMENTO ANIMADO -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=500&lines=THINK+DIFFERENT.;LEARN+CONTINUOUSLY.;BUILD+WITH+PURPOSE.;SYSTEM+OUT."
-    alt="Think different. Learn continuously. Build with purpose."
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=500&lines=THINK+DIFFERENT.;LEARN+CONTINUOUSLY.;BUILD+WITH+PURPOSE.;SYSTEM+OUT." alt="Think different. Learn continuously. Build with purpose." />
 </p>
 
-<!-- BARRA ROXA -->
+<!-- BARRA NEON ROXA -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:211333,50:8B5CF6,100:C084FC&height=70&section=footer&animation=twinkling"
-    width="100%"
-    alt="Encerramento Phantom Purple"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:211333,50:8B5CF6,100:C084FC&height=90&section=footer&animation=twinkling" width="100%" alt="Encerramento Phantom Purple" />
 </p>
 
 <p align="center">
