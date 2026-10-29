@@ -36,10 +36,10 @@
 ## Desenvolvimento Web
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Next.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript e Next.js" />
 </p>
 
-HTML • CSS • JavaScript • TypeScript • Next.js 
+HTML • CSS • JavaScript • TypeScript • Next.js
 
 ## Programação
 
@@ -72,24 +72,43 @@ Linux • Git • GitHub • Docker
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasDevxx&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB&ring_color=A855F7" width="49%" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A855F7&text_color=E5E7EB" width="41%" alt="Linguagens mais utilizadas" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LucasDevxx&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB"
+    width="49%"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasDevxx&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D12&title_color=A855F7&text_color=E5E7EB"
+    width="41%"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LucasDevxx&hide_border=true&background=0D0D12&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="70%" alt="Sequência de contribuições" />
+  <img
+    src="https://streak-stats.demolab.com?user=LucasDevxx&hide_border=true&background=0D0D12&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
+    width="70%"
+    alt="Sequência de contribuições"
+  />
 </p>
 
 ---
 
-<!-- ENCERRAMENTO -->
+<!-- ENCERRAMENTO ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=500&lines=THINK+DIFFERENT.;LEARN+CONTINUOUSLY.;BUILD+WITH+PURPOSE.;SYSTEM+OUT." alt="Think different. Learn continuously. Build with purpose." />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=500&lines=THINK+DIFFERENT.;LEARN+CONTINUOUSLY.;BUILD+WITH+PURPOSE.;SYSTEM+OUT."
+    alt="Think different. Learn continuously. Build with purpose."
+  />
 </p>
 
-<!-- BARRA NEON ROXA -->
+<!-- BARRA ROXA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:211333,50:8B5CF6,100:C084FC&height=70&section=footer&animation=twinkling" width="100%" alt="Encerramento Phantom Purple" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:211333,50:8B5CF6,100:C084FC&height=70&section=footer&animation=twinkling"
+    width="100%"
+    alt="Encerramento Phantom Purple"
+  />
 </p>
 
 <p align="center">
