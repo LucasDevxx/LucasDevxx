@@ -44,10 +44,10 @@ HTML • CSS • JavaScript • TypeScript • Next.js • Tailwind CSS
 ## Programação
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python e Java" />
 </p>
 
-Python
+Python • Java
 
 ## Sistemas e ferramentas
 
@@ -62,7 +62,7 @@ Linux • Git • GitHub • Docker
 ## O que estou estudando
 
 - Desenvolvimento web com Next.js e TypeScript
-- Programação com Python
+- Programação com Python e Java
 - Linux e administração de sistemas
 - Redes de computadores
 - Fundamentos de cibersegurança
@@ -72,8 +72,8 @@ Linux • Git • GitHub • Docker
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasDevxx&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB&ring_color=A855F7" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A855F7&text_color=E5E7EB" height="165" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasDevxx&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB&ring_color=A855F7" width="49%" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&hide_border=true&bg_color=0D0D12&title_color=A855F7&text_color=E5E7EB" width="41%" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
@@ -82,13 +82,14 @@ Linux • Git • GitHub • Docker
 
 ---
 
-<!-- ENCERRAMENTO ANIMADO -->
+<!-- ENCERRAMENTO -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=500&lines=THINK+DIFFERENT.;LEARN+CONTINUOUSLY.;BUILD+WITH+PURPOSE.;SYSTEM+OUT." alt="Think different. Learn continuously. Build with purpose." />
 </p>
 
+<!-- BARRA NEON ROXA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=8&section=footer&animation=twinkling" width="100%" alt="Barra roxa animada de encerramento" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:211333,50:8B5CF6,100:C084FC&height=70&section=footer&animation=twinkling" width="100%" alt="Encerramento Phantom Purple" />
 </p>
 
 <p align="center">
