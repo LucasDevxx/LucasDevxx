@@ -78,7 +78,7 @@ Linux • Git • GitHub • Docker
     alt="Estatísticas do GitHub"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasDevxx&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D12&title_color=A855F7&text_color=E5E7EB"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D12&title_color=A855F7&text_color=E5E7EB"
     width="41%"
     alt="Linguagens mais utilizadas"
   />
@@ -91,7 +91,6 @@ Linux • Git • GitHub • Docker
     alt="Sequência de contribuições"
   />
 </p>
-
 ---
 
 <!-- ENCERRAMENTO ANIMADO -->
