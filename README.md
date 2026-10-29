@@ -1,25 +1,22 @@
-<!-- PHANTOM PURPLE // PROFILE README -->
+&#x20;\<p align="center">
+&#x20; \<img src="./phantom-purple.png" width="100%" alt="LucasDevxx — Phantom Purple" />
+\</p>
 
-<p align="center">
-  <img src="./phantom-purple.png" width="100%" alt="LucasDevxx — Phantom Purple" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=BC8CFF&center=true&vCenter=true&width=650&lines=ESTUDANTE+DE+ENGENHARIA+DE+SOFTWARE;LINUX+%2F%2F+REDES+DE+COMPUTADORES;ESTUDANDO+CIBERSEGURAN%C3%87A;CODIFICAR.+APRENDER.+EVOLUIR](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=18\&duration=2500\&pause=800\&color=BC8CFF\&center=true\&vCenter=true\&width=650\&lines=ESTUDANTE+DE+ENGENHARIA+DE+SOFTWARE;LINUX+%2F%2F+REDES+DE+COMPUTADORES;ESTUDANDO+CIBERSEGURAN%C3%87A;CODIFICAR.+APRENDER.+EVOLUIR)." alt="Apresentação animada" />
+\</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHANTOM-PURPLE-8B5CF6?style=for-the-badge&labelColor=0D0B14" alt="Phantom Purple" />
-  <img src="https://img.shields.io/badge/STATUS-ALWAYS_LEARNING-BC8CFF?style=for-the-badge&labelColor=0D0B14" alt="Always Learning" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/PHANTOM-PURPLE-BC8CFF?style=for-the-badge&labelColor=0D0B14](https://img.shields.io/badge/PHANTOM-PURPLE-BC8CFF?style=for-the-badge\&labelColor=0D0B14)" alt="Phantom Purple" />
+&#x20; \<img src="[https://img.shields.io/badge/SISTEMA-ONLINE-8B5CF6?style=for-the-badge&labelColor=0D0B14](https://img.shields.io/badge/SISTEMA-ONLINE-8B5CF6?style=for-the-badge\&labelColor=0D0B14)" alt="Sistema online" />
+&#x20; \<img src="[https://img.shields.io/badge/MODO-APRENDIZADO-BC8CFF?style=for-the-badge&labelColor=0D0B14](https://img.shields.io/badge/MODO-APRENDIZADO-BC8CFF?style=for-the-badge\&labelColor=0D0B14)" alt="Modo aprendizado" />
+\</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=BC8CFF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Learning+Linux+%26+Networking;Exploring+Cybersecurity;Build.+Learn.+Evolve." alt="Animated introduction" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50\:BC8CFF,100:6D28D9&height=3&section=header](https://capsule-render.vercel.app/api?type=rect\&color=0:6D28D9,50\:BC8CFF,100:6D28D9\&height=3\&section=header)" width="100%" alt="Divisor neon roxo" />
+\</p>
 
-<p align="center">
-  <strong>Software Engineering Student · Aspiring Developer · Cybersecurity Learner</strong>
-</p>
-
----
-
-### `01 / WHOAMI`
+## `01 / QUEM SOU EU`
 
 ```text
 ┌──(lucas㉿phantom)-[~]
@@ -27,118 +24,142 @@
 
 LucasDevxx
 
-└─$ cat mission.txt
+└─$ cat missao.txt
 
-Learn how systems work.
-Build useful software.
-Understand networks and security.
-Keep learning. Keep evolving.
+Aprender como os sistemas funcionam.
+Desenvolver soluções úteis.
+Entender redes e segurança.
+Evoluir um pouco a cada dia.
+
+└─$ _
 ```
 
-I'm a Software Engineering student interested in software development, operating systems, computer networks, and cybersecurity.
+Sou estudante de Engenharia de Software, interessado em desenvolvimento de sistemas, Linux, redes de computadores e cibersegurança.
 
-I use this profile to document my learning journey, explore technologies, and improve my technical skills step by step.
+Uso este espaço para registrar minha evolução, explorar tecnologias e desenvolver minhas habilidades por meio de estudos e projetos pessoais.
 
-### `02 / SYSTEM STATUS`
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=300&color=8B5CF6&center=true&vCenter=true&width=600&lines=%3E+INICIALIZANDO+PHANTOM+PURPLE...;%3E+CARREGANDO+PERFIL+DO+DESENVOLVEDOR...;%3E+SISTEMA+PRONTO\_%E2%96%88](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=13\&duration=1800\&pause=300\&color=8B5CF6\&center=true\&vCenter=true\&width=600\&lines=%3E+INICIALIZANDO+PHANTOM+PURPLE...;%3E+CARREGANDO+PERFIL+DO+DESENVOLVEDOR...;%3E+SISTEMA+PRONTO_%E2%96%88)" alt="Inicialização animada" />
+\</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=flat-square&labelColor=0D0B14" alt="System online" />
-  <img src="https://img.shields.io/badge/MODE-LEARNING-BC8CFF?style=flat-square&labelColor=0D0B14" alt="Learning mode" />
-  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-BC8CFF?style=flat-square&labelColor=0D0B14" alt="Linux environment" />
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-BC8CFF?style=flat-square&labelColor=0D0B14" alt="Cybersecurity focus" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50\:BC8CFF,100:6D28D9&height=3&section=header](https://capsule-render.vercel.app/api?type=rect\&color=0:6D28D9,50\:BC8CFF,100:6D28D9\&height=3\&section=header)" width="100%" alt="Divisor neon roxo" />
+\</p>
+
+## `02 / STATUS DO SISTEMA`
+
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/IDENTIDADE-LucasDevxx-BC8CFF?style=flat-square&labelColor=0D0B14](https://img.shields.io/badge/IDENTIDADE-LucasDevxx-BC8CFF?style=flat-square\&labelColor=0D0B14)" alt="Identidade" />
+&#x20; \<img src="[https://img.shields.io/badge/STATUS-EM_APRENDIZADO-BC8CFF?style=flat-square&labelColor=0D0B14](https://img.shields.io/badge/STATUS-EM_APRENDIZADO-BC8CFF?style=flat-square\&labelColor=0D0B14)" alt="Status de aprendizado" />
+&#x20; \<img src="[https://img.shields.io/badge/AMBIENTE-LINUX-BC8CFF?style=flat-square&labelColor=0D0B14](https://img.shields.io/badge/AMBIENTE-LINUX-BC8CFF?style=flat-square\&labelColor=0D0B14)" alt="Ambiente Linux" />
+&#x20; \<img src="[https://img.shields.io/badge/FOCO-CIBERSEGURANCA-BC8CFF?style=flat-square&labelColor=0D0B14](https://img.shields.io/badge/FOCO-CIBERSEGURANCA-BC8CFF?style=flat-square\&labelColor=0D0B14)" alt="Foco em cibersegurança" />
+\</p>
 
 ```text
-[ SYSTEM REPORT ]
-
-Identity       : LucasDevxx
-Current mode   : Learning & Building
-Primary focus  : Software Engineering
-Environment    : Linux / Fedora / Kali Linux
-Code & scripts : Python
-Web stack      : TypeScript / Next.js
-Interests      : Networking / Cybersecurity
-
-[ END OF REPORT ]
+╔══════════════ SISTEMA PHANTOM ══════════════╗
+║                                             ║
+║  USUÁRIO    : LucasDevxx                    ║
+║  STATUS     : APRENDENDO E DESENVOLVENDO    ║
+║  FORMAÇÃO   : ENGENHARIA DE SOFTWARE        ║
+║  SISTEMAS   : LINUX / FEDORA / KALI         ║
+║  PROGRAMAÇÃO: PYTHON                        ║
+║  WEB        : TYPESCRIPT / NEXT.JS          ║
+║  INTERESSES : REDES / CIBERSEGURANÇA        ║
+║                                             ║
+╚═════════════════════════════════════════════╝
 ```
 
-### `03 / TECH ARSENAL`
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50\:BC8CFF,100:6D28D9&height=3&section=header](https://capsule-render.vercel.app/api?type=rect\&color=0:6D28D9,50\:BC8CFF,100:6D28D9\&height=3\&section=header)" width="100%" alt="Divisor neon roxo" />
+\</p>
 
-**01 — CODE**
+## `03 / ARSENAL TECNOLÓGICO`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-BC8CFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0B14" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-BC8CFF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D0B14" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-BC8CFF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0B14" alt="TypeScript" />
-</p>
+**01 — LINGUAGENS**
 
-**02 — WEB DEVELOPMENT**
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Python-BC8CFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/Python-BC8CFF?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=0D0B14)" alt="Python" />
+&#x20; \<img src="[https://img.shields.io/badge/JavaScript-BC8CFF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/JavaScript-BC8CFF?style=for-the-badge\&logo=javascript\&logoColor=white\&labelColor=0D0B14)" alt="JavaScript" />
+&#x20; \<img src="[https://img.shields.io/badge/TypeScript-BC8CFF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/TypeScript-BC8CFF?style=for-the-badge\&logo=typescript\&logoColor=white\&labelColor=0D0B14)" alt="TypeScript" />
+\</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-BC8CFF?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D0B14" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-BC8CFF?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D0B14" alt="Tailwind CSS" />
-</p>
+**02 — DESENVOLVIMENTO WEB**
 
-**03 — SYSTEMS & TOOLS**
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Next.js-BC8CFF?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/Next.js-BC8CFF?style=for-the-badge\&logo=next.js\&logoColor=white\&labelColor=0D0B14)" alt="Next.js" />
+&#x20; \<img src="[https://img.shields.io/badge/Tailwind_CSS-BC8CFF?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/Tailwind_CSS-BC8CFF?style=for-the-badge\&logo=tailwindcss\&logoColor=white\&labelColor=0D0B14)" alt="Tailwind CSS" />
+\</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-BC8CFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D0B14" alt="Linux" />
-  <img src="https://img.shields.io/badge/Fedora-BC8CFF?style=for-the-badge&logo=fedora&logoColor=white&labelColor=0D0B14" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Kali_Linux-BC8CFF?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D0B14" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Git-BC8CFF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0B14" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-BC8CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B14" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-BC8CFF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0B14" alt="Docker" />
-</p>
+**03 — SISTEMAS E FERRAMENTAS**
 
-<sub>Tools and technologies I'm learning, exploring, or using in personal projects.</sub>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Linux-BC8CFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/Linux-BC8CFF?style=for-the-badge\&logo=linux\&logoColor=white\&labelColor=0D0B14)" alt="Linux" />
+&#x20; \<img src="[https://img.shields.io/badge/Fedora-BC8CFF?style=for-the-badge&logo=fedora&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/Fedora-BC8CFF?style=for-the-badge\&logo=fedora\&logoColor=white\&labelColor=0D0B14)" alt="Fedora" />
+&#x20; \<img src="[https://img.shields.io/badge/Kali_Linux-BC8CFF?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/Kali_Linux-BC8CFF?style=for-the-badge\&logo=kalilinux\&logoColor=white\&labelColor=0D0B14)" alt="Kali Linux" />
+&#x20; \<img src="[https://img.shields.io/badge/Git-BC8CFF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/Git-BC8CFF?style=for-the-badge\&logo=git\&logoColor=white\&labelColor=0D0B14)" alt="Git" />
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-BC8CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/GitHub-BC8CFF?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=0D0B14)" alt="GitHub" />
+&#x20; \<img src="[https://img.shields.io/badge/Docker-BC8CFF?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D0B14](https://img.shields.io/badge/Docker-BC8CFF?style=for-the-badge\&logo=docker\&logoColor=white\&labelColor=0D0B14)" alt="Docker" />
+\</p>
 
-### `04 / MISSION LOG`
+\<sub>Tecnologias e ferramentas que estou estudando, explorando ou utilizando em projetos pessoais.\</sub>
+
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50\:BC8CFF,100:6D28D9&height=3&section=header](https://capsule-render.vercel.app/api?type=rect\&color=0:6D28D9,50\:BC8CFF,100:6D28D9\&height=3\&section=header)" width="100%" alt="Divisor neon roxo" />
+\</p>
+
+## `04 / DIÁRIO DE MISSÕES`
 
 ```text
-[ ACTIVE MISSIONS ]
-
-01  PYTHON             -> Strengthen programming fundamentals
-02  LINUX              -> Explore systems and administration
-03  NETWORKING         -> Understand protocols and infrastructure
-04  WEB DEVELOPMENT    -> Practice TypeScript and Next.js
-05  CYBERSECURITY      -> Learn security fundamentals
-06  AUTOMATION         -> Build useful scripts and tools
-
-[ PROGRESS: CONTINUOUS ]
+┌──[ MISSÕES EM ANDAMENTO ]───────────────────┐
+│                                             │
+│  [01] PYTHON          :: FUNDAMENTOS        │
+│  [02] LINUX           :: SISTEMAS           │
+│  [03] REDES           :: PROTOCOLOS         │
+│  [04] DESENV. WEB     :: NEXT.JS / TS       │
+│  [05] CIBERSEGURANÇA  :: FUNDAMENTOS        │
+│  [06] AUTOMAÇÃO       :: SCRIPTS PYTHON     │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
-Current learning priorities:
+- [ ] Aprimorar Python e automação de tarefas.
+- [ ] Praticar desenvolvimento web com TypeScript e Next.js.
+- [ ] Aprofundar os conhecimentos em Linux e redes.
+- [ ] Estudar testes de segurança em ambientes autorizados.
+- [ ] Aprender sobre engenharia social e prevenção contra phishing.
+- [ ] Evoluir com exercícios práticos e estudos contínuos.
 
-- Improving Python and automation skills.
-- Practicing web development with TypeScript and Next.js.
-- Learning Linux and computer networking.
-- Studying penetration testing in authorized environments.
-- Understanding social engineering and phishing prevention.
-- Documenting progress through practical exercises.
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50\:BC8CFF,100:6D28D9&height=3&section=header](https://capsule-render.vercel.app/api?type=rect\&color=0:6D28D9,50\:BC8CFF,100:6D28D9\&height=3\&section=header)" width="100%" alt="Divisor neon roxo" />
+\</p>
 
-### `05 / GITHUB ANALYTICS`
+## `05 / ESTATÍSTICAS DO GITHUB`
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=LucasDevxx&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B14&title_color=BC8CFF&icon_color=BC8CFF&text_color=E6EDF3" height="165" alt="GitHub statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&theme=radical&hide_border=true&bg_color=0D0B14&title_color=BC8CFF&text_color=E6EDF3&langs_count=6" height="165" alt="Most used languages" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://github-stats-extended.vercel.app/api?username=LucasDevxx&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=BC8CFF&icon_color=BC8CFF&text_color=E6EDF3](https://github-stats-extended.vercel.app/api?username=LucasDevxx\&show_icons=true\&hide_border=true\&bg_color=0D0B14\&title_color=BC8CFF\&icon_color=BC8CFF\&text_color=E6EDF3)" height="165" alt="Estatísticas do GitHub" />
+&#x20; \<img src="[https://github-stats-extended.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&hide_border=true&bg_color=0D0B14&title_color=BC8CFF&text_color=E6EDF3&langs_count=6](https://github-stats-extended.vercel.app/api/top-langs/?username=LucasDevxx\&layout=compact\&hide_border=true\&bg_color=0D0B14\&title_color=BC8CFF\&text_color=E6EDF3\&langs_count=6)" height="165" alt="Linguagens mais utilizadas" />
+\</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucasDevxx&theme=radical&hide_border=true&background=0D0B14&ring=BC8CFF&fire=BC8CFF&currStreakLabel=BC8CFF" width="80%" alt="GitHub contribution streak" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com/?user=LucasDevxx&theme=transparent&hide_border=true&background=0D0B14&ring=BC8CFF&fire=BC8CFF&currStreakLabel=BC8CFF&sideLabels=E6EDF3&dates=BC8CFF](https://streak-stats.demolab.com/?user=LucasDevxx\&theme=transparent\&hide_border=true\&background=0D0B14\&ring=BC8CFF\&fire=BC8CFF\&currStreakLabel=BC8CFF\&sideLabels=E6EDF3\&dates=BC8CFF)" width="85%" alt="Sequência de contribuições" />
+\</p>
 
-<sub>Statistics are provided by external services and may be cached or temporarily unavailable.</sub>
+\<sub>As estatísticas são geradas por serviços externos e podem sofrer atrasos ou indisponibilidade.\</sub>
 
-### `06 / END OF TRANSMISSION`
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50\:BC8CFF,100:6D28D9&height=3&section=header](https://capsule-render.vercel.app/api?type=rect\&color=0:6D28D9,50\:BC8CFF,100:6D28D9\&height=3\&section=header)" width="100%" alt="Divisor neon roxo" />
+\</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHANTOM_PURPLE-BUILD_%E2%80%A2_LEARN_%E2%80%A2_EVOLVE-8B5CF6?style=for-the-badge&labelColor=0D0B14" alt="Build Learn Evolve" />
-</p>
+## `06 / FIM DA TRANSMISSÃO`
 
-<p align="center">
-  <i>Understand the system. Build with purpose.</i>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=BC8CFF&center=true&vCenter=true&width=600&lines=ENTENDA+O+SISTEMA.;DESENVOLVA+COM+PROP%C3%93SITO.;CODIFICAR.+APRENDER.+EVOLUIR](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=16\&duration=2800\&pause=1000\&color=BC8CFF\&center=true\&vCenter=true\&width=600\&lines=ENTENDA+O+SISTEMA.;DESENVOLVA+COM+PROP%C3%93SITO.;CODIFICAR.+APRENDER.+EVOLUIR)." alt="Mensagem final animada" />
+\</p>
 
-<p align="center">
-  <sub>LucasDevxx // PHANTOM PURPLE // ALWAYS LEARNING</sub>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/PHANTOM_PURPLE-CODIFICAR\_%E2%80%A2_APRENDER\_%E2%80%A2_EVOLUIR-8B5CF6?style=for-the-badge&labelColor=0D0B14](https://img.shields.io/badge/PHANTOM_PURPLE-CODIFICAR_%E2%80%A2_APRENDER_%E2%80%A2_EVOLUIR-8B5CF6?style=for-the-badge\&labelColor=0D0B14)" alt="Codificar, aprender e evoluir" />
+\</p>
+
+\<p align="center">
+&#x20; \<sub>LucasDevxx // PHANTOM PURPLE // SEMPRE EVOLUINDO\</sub>
+\</p>
