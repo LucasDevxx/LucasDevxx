@@ -71,19 +71,30 @@ Linux • Git • GitHub • Docker
 
 ## Estatísticas do GitHub
 
+<!-- ESTATISTICAS GERAIS -->
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=LucasDevxx&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB"
     width="49%"
     alt="Estatísticas do GitHub"
   />
+</p>
+
+<!-- LINGUAGENS MAIS UTILIZADAS -->
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevxx&layout=compact&langs_count=6&hide_border=true&bg_color=0D0D12&title_color=A855F7&text_color=E5E7EB"
-    width="41%"
-    alt="Linguagens mais utilizadas"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasDevxx&theme=github_dark"
+    width="49%"
+    alt="Linguagens mais utilizadas nos repositórios"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasDevxx&theme=github_dark"
+    width="49%"
+    alt="Linguagens mais utilizadas nos commits"
   />
 </p>
 
+<!-- SEQUENCIA DE CONTRIBUICOES -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=LucasDevxx&hide_border=true&background=0D0D12&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
@@ -91,6 +102,7 @@ Linux • Git • GitHub • Docker
     alt="Sequência de contribuições"
   />
 </p>
+
 ---
 
 <!-- ENCERRAMENTO ANIMADO -->
